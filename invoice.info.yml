@@ -1,0 +1,6 @@
+name: invoice
+type: module
+description: Drupal 8 Module to create invoices
+core: '8.x'
+
+
