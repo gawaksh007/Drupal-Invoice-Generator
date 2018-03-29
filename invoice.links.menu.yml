@@ -1,0 +1,5 @@
+invoice.config:
+  title: Invoice Details
+  route_name: invoice.config
+  parent: system.admin_config_system
+  description: 'Allows the user to generate Invoice reports and work on them.'
